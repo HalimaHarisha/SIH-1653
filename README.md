@@ -1,26 +1,56 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date: 06.03.2025
+## Register Number: 212224040094
+## Name: A.HALIMA HARISHA
 ## Problem Title
-SIH 1653: Web based Selector-Applicant Simulation Software
+ Smart Cities and Infrastructure
 ## Problem Description
-Background: Recruitment and Assessment Centre (RAC) under DRDO, Ministry of Defence carries out interviews for applications received against advertised vacancies and for promotion to next higher grade for scientific manpower inducted within DRDO. Description: The process of interviewing is a challenging task. An unbiased objective interviewing process helps identify the right talent. The basic process of an interview involves posing a set of questions by an interviewer and thereafter evaluating responses from candidates. Thus, the questions asked should be relevant and match the area/ expertise of the applicant and the responses should also be of relevance w.r.t. the question asked. Expected Solution: The proposed solution should provide experts as well as candidates a real life Board Room experience, starting with initial ice-breaking questions leading to in-depth techno-managerial (depending on the level of candidate) questions. It shall also be able to provide a quantifiable score for experts as well as the candidate for the relevancy of questions w.r.t. the area/ expertise of the applicant. Similarly, candidate responses should also be graded for relevancy w.r.t. the question asked, finally assisting in arriving at an overall score for the subject knowledge of the candidate and thus his/ her suitability against the advertised post.
+Smart cities aim to integrate various aspects of urban life — including transportation, energy, water, healthcare, security, and waste management — using advanced technologies such as the Internet of Things (IoT), Artificial Intelligence (AI), big data, cloud computing, and automation. The goal is to create urban environments that are not only more efficient but also more sustainable, inclusive, and resilient.Smart cities represent a new approach to managing these challenges, using technology and data-driven solutions to improve the sustainability, efficiency, and livability of urban areas.According to the United Nations, more than 55% of the global population lives in cities, and this number is expected to rise to 68% by 2050. This shift toward urban living is creating significant challenges in terms of infrastructure, resource management, and quality of life. 
+
 
 ## Problem Creater's Organization
-Ministry of Defence
+Ministry of Environment
 
 ## Idea
-
+1.Intelligent Traffic Management: Use sensors and AI to monitor traffic patterns, optimize signal timings, and reduce congestion.
+2.Electric Vehicles (EVs): Promote the adoption of EVs through charging stations, incentives, and infrastructure development.
+3.Autonomous Public Transport: Implement autonomous buses or vehicles for efficient, on-demand public transport services.
+4.Smart Parking Systems: Use sensors and apps to find available parking spaces in real time, reducing traffic and pollution.
+5.Smart Waste Collection: Implement IoT-enabled waste bins that monitor trash levels and optimize collection routes to reduce traffic and pollution.
+6.Smart Water Meters: Use sensors to detect leaks, monitor water consumption, and ensure efficient water usage in both residential and commercial areas.
+7.Smart Policing: Integrate data analytics to optimize policing strategies, crime prediction, and resource allocation.
 
 ## Proposed Solution / Architecture Diagram
+![Screenshot 2025-03-06 224619](https://github.com/user-attachments/assets/aa6ec8c9-f451-4a86-8aa1-9eecf742450e)
+
 
 
 ## Use Cases
+![infra](https://github.com/user-attachments/assets/49a86788-9657-4c57-826c-3fe78f4b69a0)
+
 
 
 ## Technology Stack
+React.js
+
+Node.js
+
+PostgreSQL
+
+Google maps
+
+Firebox Authenticator
+
+Git , Postman or Insomnia
+
+
 
 
 ## Dependencies
+Mapping service- 15 days
+
+Data collection- 15 days
+
+budget- rs.70,000
+
 
